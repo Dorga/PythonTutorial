@@ -21,11 +21,8 @@ sum = x + y
 print(sum)
 
 # User Input
-x2 = int(input('Enter x: '))
-y2 = int(input('Enter y: '))
-
-sum2 = x2 + y2
-print(sum2)
-
-
-
+# x2 = int(input('Enter x: '))
+# y2 = int(input('Enter y: '))
+#
+# sum2 = x2 + y2
+# print(sum2)
