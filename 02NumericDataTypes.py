@@ -19,6 +19,7 @@ y = 8
 sum = x + y
 
 print(sum)
+print(sum*sum)
 
 # User Input
 # x2 = int(input('Enter x: '))
